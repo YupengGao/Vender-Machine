@@ -14,13 +14,4 @@ This system implements following functions:
 4.Support different type of motor, Motor interface can be used to add new motor in the future.
 5.Vender's sale can be checked 
 
-Note:
-Because I don't have much time to do this, so finish it in a hurry, just simply test it, not use Junit. Don't have
-enough time to test all the cases and write annotation for every function, sorry about that. If you have questions
-about my project please feel free to contact me. My email address is msz1990@yahoo.com. Thank you for your time to
-see my code, to be honest I'm very appreciate this kind of interview, this is the right way to find a good engineer
-By this interview I'm fall in love with your team, I'm sure your guys must be a group of very excllent engineer. 
-Really hope can work with your guys in the futrue. Looking forward to hear from you soon.
 
-Best,
-Shizhe 
